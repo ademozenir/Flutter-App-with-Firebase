@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1092930575380",
+    "project_id": "veriekle-1101a",
+    "storage_bucket": "veriekle-1101a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092930575380:android:a5f2f858a96088df965b01",
+        "android_client_info": {
+          "package_name": "com.example.veriekleme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092930575380-kb7qu3r5jk3psoclst6gka931kaak179.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veriekleme",
+            "certificate_hash": "ff15bd71ff17b66b77a16561b0a07f29eb0f6d47"
+          }
+        },
+        {
+          "client_id": "1092930575380-g5n85usmnn0bo3d6qc46p7fmdjm8fh3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR17DBQ_LwzgImj8-IqivfRChNzxmdh14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092930575380-g5n85usmnn0bo3d6qc46p7fmdjm8fh3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092930575380-rphtk9sjnalg1fpdc63017cmbav46u8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.veriekleme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
